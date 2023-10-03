@@ -1,0 +1,5 @@
+opencv-python>=4.5.3
+numpy>=1.21.0
+tensorflow>=2.0.0
+keras>=2.0.0
+pathlib>=1.0.1
